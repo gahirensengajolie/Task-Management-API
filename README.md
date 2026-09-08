@@ -17,7 +17,7 @@ practices — built as a backend-engineering intern portfolio project.
 ## Setup
 
 ```bash
-git clone <this repo >
+git clone <repository name >
 cd expense-api
 python -m venv venv
 source venv/bin/activate
